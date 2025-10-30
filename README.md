@@ -29,7 +29,7 @@ task-manager-backend/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/task-manager-backend.git
+git clone https://github.com/umaGannamani/backend.git
 cd task-manager-backend
 
 2️⃣ Install Dependencies
